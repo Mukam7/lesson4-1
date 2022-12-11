@@ -1,0 +1,21 @@
+body{
+    background-color: white;
+}
+body{
+    background-color: white;
+}
+table{
+    margin: 0 auto;
+}
+.class1 th, tr, td { 
+    border: 1px solid #000;
+    padding: 10px;
+}
+.seminar{
+    font-size: 40px;
+    background-color: rgb(38,196,137);
+    color: white;
+}
+td, th,table{
+    background-color:aqua;
+}

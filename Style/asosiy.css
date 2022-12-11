@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color: darkcyan;
+}
+a{
+font-size: 25px;
+text-decoration: none;
+}
+
+img{
+    width: 30%;
+    border-radius: 25px;
+}
+.nav{
+    color: rgb(255,165,0);
+}
+.html1{
+    color: rgb(85,26,139);
+}
+.html2{
+    color:rgb(0,128,0) ;
+}
+.html3{
+    color:red ;
+
+}
+.number{
+    font-size: 16px;
+}
+.about a{
+    font-size: 16px;
+}
+h1{
+    font-size: 45px;
+}
